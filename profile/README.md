@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sciepedia
+
+Sciepedia is a simple hyperlinked note repository
+
+try it out here: https://sciepedia.com
 
 <!--
 
