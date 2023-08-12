@@ -1,6 +1,6 @@
 ## Sciepedia
 
-Sciepedia is a simple hyperlinked note repository
+A simple hyperlinked note repository
 
 try it out here: www.sciepedia.com
 
