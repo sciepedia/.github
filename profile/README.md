@@ -1,8 +1,8 @@
 ## Sciepedia
 
-A simple hyperlinked note repository
+minimal hyperlinked note repository.
 
-try it out here: www.sciepedia.com
+try here: www.sciepedia.com
 
 <!--
 
