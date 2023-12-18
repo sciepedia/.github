@@ -2,7 +2,7 @@
 
 minimal hyperlinked note repository.
 
-try it: www.sciepedia.com
+try it: sciepedia.com
 
 <!--
 
